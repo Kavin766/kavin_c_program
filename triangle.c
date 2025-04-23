@@ -16,4 +16,5 @@ void main()
     {
         printf ("its not a valid triangle ");
     }
+    printf("\nvanakam da mapla");
 }
